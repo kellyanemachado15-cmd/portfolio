@@ -13,14 +13,14 @@ function App() {
       categoria: "UI/UX Design",
       descricao:
         "Um museu virtual do inusitado, criado para transformar objetos considerados inúteis em histórias, memórias e experiências.",
-      imagem: "/projetos/ex1.png",
+      imagem: "https://lh3.googleusercontent.com/pw/AP1GczN_I4TPYnSGQwg81AShATF_k9f-WXPpEXTgFQnkK12tzCozQCO48jkbTt_AvYoprKyMP0Zlurk9x5l0RKNBrfT9ZLCk_CWaTjQOhIdxRr-gSMA1Ctj12fszZA7g8nEZJciI-YHqSLkUq3aEyGjWNkxV=w482-h296-s-no-gm?authuser=0",
     },
     {
       nome: "Piggy",
       categoria: "UI/UX Design",
       descricao:
         "Um aplicativo de educação financeira infantil que incentiva crianças a economizar através de tarefas, estrelas e moedas.",
-      imagem: "/projetos/ex2.png",
+      imagem: "https://lh3.googleusercontent.com/pw/AP1GczM3gQHUTusotTr-6aC4fG7vfXcBFXIr_JmEMxjZkNTOQ0ZObuSQQhQ3TXNflbUqW0ucxdIjr6ktFRxR_zN58FFunR1I-owSguLA_GAQu-vnwn-k65kL063U3v2-r9jHnMYLGq3ChnvMNBHMg_QUAcAE=w669-h398-s-no-gm?authuser=0",
     },
   ];
 
