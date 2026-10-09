@@ -2,7 +2,7 @@ name: Deploy static content to Pages
 
 on:
   push:
-    branches: ['main'] # Se seu ramo padrão for 'principal', mude aqui para 'principal'
+    branches: ['main' , 'principal'] # Se seu ramo padrão for 'principal', mude aqui para 'principal'
   workflow_dispatch:
 
 permissions:
